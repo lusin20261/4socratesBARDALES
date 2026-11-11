@@ -1,0 +1,8 @@
+print("=====================Bienvenido a los numeros==========================")
+a = input("Ingresa el primer numero:")
+b = input("Ingresa el segundo número:")
+a = int(a)
+b = int(b)
+print("la suma es: ",a+b)
+print("la resta es: ",a-b)
+print("======================Gracias========================")
